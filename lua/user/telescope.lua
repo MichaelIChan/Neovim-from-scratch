@@ -92,5 +92,8 @@ telescope.setup {
     --   extension_config_key = value,
     -- }
     -- please take a look at the readme of the extension you want to configure
+    live_grep_args = {
+      auto_quoting = true, -- enable/disable auto-quoting
+    }
   },
 }
