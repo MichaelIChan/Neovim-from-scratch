@@ -19,5 +19,7 @@ require "user.indentline"
 require "user.alpha"
 require "user.whichkey"
 require "user.autocommands"
+require "user.diffview"
+require "user.neovim-session-manager"
 
 vim.cmd "colorscheme onedarkpro"
