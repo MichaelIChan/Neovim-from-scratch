@@ -21,5 +21,6 @@ require "user.whichkey"
 require "user.autocommands"
 require "user.diffview"
 require "user.neovim-session-manager"
+require "user.symbols-outline"
 
 vim.cmd "colorscheme onedarkpro"
